@@ -1,0 +1,1 @@
+int lastdigit= n%10;
